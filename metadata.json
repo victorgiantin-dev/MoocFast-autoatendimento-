@@ -1,0 +1,6 @@
+{
+  "name": "MoocFast - Autoatendimento de Hamburgueria",
+  "description": "Sistema de autoatendimento para tablets com cardápio digital integrado ao Supabase, controle de estoque em tempo real, pagamentos integrados e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
